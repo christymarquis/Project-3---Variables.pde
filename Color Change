@@ -15,7 +15,7 @@ fill(125, 0, 0);
 
 
 //I like to show flow and movement, will move to these shapes eventually. Will also add color changes.
-//changed hue
+//changed hue to puke green
 //added variable fomulas
 fill(hue);
 ellipse(number,number,number,number);
